@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MSGSU\\MSGSUprogramlamaDersi\\TeslimEdilecek\\PGproje2\\PGproje2\\PGproje2.csproj",
+      "projectUniqueName": "D:\\MSGSU\\programlamaDersi\\TeslimEdilecek\\PGproje2\\PGproje2\\PGproje2.csproj",
       "projectName": "PGproje2",
-      "projectPath": "D:\\MSGSU\\MSGSUprogramlamaDersi\\TeslimEdilecek\\PGproje2\\PGproje2\\PGproje2.csproj",
+      "projectPath": "D:\\MSGSU\\programlamaDersi\\TeslimEdilecek\\PGproje2\\PGproje2\\PGproje2.csproj",
       "packagesPath": "C:\\Users\\Irem Berber\\.nuget\\packages\\",
-      "outputPath": "D:\\MSGSU\\MSGSUprogramlamaDersi\\TeslimEdilecek\\PGproje2\\PGproje2\\obj\\",
+      "outputPath": "D:\\MSGSU\\programlamaDersi\\TeslimEdilecek\\PGproje2\\PGproje2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
